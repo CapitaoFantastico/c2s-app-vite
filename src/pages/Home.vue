@@ -1,3 +1,7 @@
+<script setup>
+import TabelaPosicaoAtualContratos from "../components/TabelaPosicaoAtualContratos.vue";
+</script>
+
 <template>
-  <div>Pagina Home</div>
+  <TabelaPosicaoAtualContratos />
 </template>
