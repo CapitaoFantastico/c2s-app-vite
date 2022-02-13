@@ -20,12 +20,3 @@ import Menu from './components/Menu.vue'
 import { ref } from "vue";
 const exibir = ref(true);
 </script>
-<style scoped>
-.v-btn--icon {
-  background-color: rgb(50, 63, 143);
-}
-
-.v-app-bar {
-  background-color: rgb(50, 63, 143) !important;
-}
-</style>
